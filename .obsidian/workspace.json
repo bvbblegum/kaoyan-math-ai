@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "8af983947fb5b6d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52051ecab7ee389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26b7a099982cc178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数一/3 概率论/4 随机变量的数字特征/4-2 协方差和相关系数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4-2 协方差和相关系数"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d25cf5d99ea1029d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b90b43f4c96890e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab93dd6634e3f69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "06f6fee5c38c6161",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "311d6915aef7796b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ef18c8359aa3c92",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bf977e1e3ceaef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aec31f2bc86dc8d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数一/1 高数/1 函数 极限与连续/函数极限.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "函数极限 的反向链接列表"
+            }
+          },
+          {
+            "id": "7e2934640a9f614c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数一/1 高数/1 函数 极限与连续/函数极限的计算.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "函数极限的计算 的出链列表"
+            }
+          },
+          {
+            "id": "f870d239d59351ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c9b1d51753e918b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "223f2243a7ccc473",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "张宇/ai笔记/01-第1讲-函数极限与连续.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01-第1讲-函数极限与连续 的大纲"
+            }
+          },
+          {
+            "id": "6c9600f06a805a84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "fde07f6b53b9c187",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "26b7a099982cc178",
+  "lastOpenFiles": [
+    "数一/3 概率论/5 大数定律和中心极限定理/5-1 大数定律.md",
+    "数一/3 概率论/5 大数定律和中心极限定理/5-0 大数定律和中心极限定理思维导图.md",
+    "数一/3 概率论/5 大数定律和中心极限定理/0-目录-大数定律与中心极限定理.md",
+    "数一/1 高数/4 一元函数积分学及其应用/2. 计算/变限积分的计算.md",
+    "数一/1 高数/4 一元函数积分学及其应用/2. 计算/4-2. 计算.md",
+    "数一/1 高数/4 一元函数积分学及其应用/1. 概念/不定积分.md",
+    "数一/1 高数/4 一元函数积分学及其应用/1. 概念/4-1. 概念.md",
+    "数一/1 高数/4 一元函数积分学及其应用/1. 概念/变限积分.md",
+    "数一/1 高数/4 一元函数积分学及其应用/4-0 一元函数积分学及其应用思维导图.md",
+    "数一/1 高数/4 一元函数积分学及其应用/0-目录-一元函数积分学.md",
+    "数一/1 高数/4 一元函数积分学及其应用/fig/常用不定积分公式.png",
+    "数一/1 高数/4 一元函数积分学及其应用/fig/4-0 一元函数积分学及其应用思维导图-1.png",
+    "数一/1 高数/4 一元函数积分学及其应用/fig/0 第三章思维导图.png",
+    "数一/1 高数/高等数学总目录.md",
+    "模版文件夹/错题模板.md",
+    "模版文件夹/二刷复盘模板.md",
+    "模版文件夹/公式卡模板.md",
+    "模版文件夹/相关方法.md",
+    "数一/1 高数/3 微分中值定理/0-目录-微分中值定理.md",
+    "数一/1 高数/9 无穷级数/三角函数系的正交性.md",
+    "AGENTS.md",
+    "copilot/copilot-conversations/考研数学助手问候@20260529_121957.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "未命名.canvas",
+    "模版文件夹/每日复盘模板.md.tmp.38796.f9a0bacf240f",
+    "学习进度.md.tmp.38796.6fc109f17d23",
+    "欢迎.md.tmp.38796.71d8a550a078",
+    "AGENTS.md.tmp.38796.1f5c7522234b",
+    "tools/build_links.py",
+    "tools/build_links.py.tmp.38796.a50825553349",
+    "assets/x13.jpg",
+    "assets/weifen_geo.jpg",
+    "assets/volume_4.png",
+    "assets/Taylor_known_formula.jpg",
+    "assets/tanx&x_compare.png",
+    "assets/tangent.jpg",
+    "assets/sxzss.png",
+    "assets/formulas"
+  ]
+}

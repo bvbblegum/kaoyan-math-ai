@@ -1,0 +1,10 @@
+# Reset LFS tracking - files will be stored directly in git
+*.pdf !filter !merge !diff
+*.pptx !filter !merge !diff
+*.png !filter !merge !diff
+*.jpeg !filter !merge !diff
+*.zip !filter !merge !diff
+*.ppt !filter !merge !diff
+*.doc !filter !merge !diff
+*.docx !filter !merge !diff
+*.jpg !filter !merge !diff
