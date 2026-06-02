@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数一/3 概率论/6 数理统计的基本概念/6-2 统计量及其分布.md",
+                "file": "数一/3 概率论/1 随机事件与概率/1-0 随机事件与概率思维导图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6-2 统计量及其分布"
+              "title": "1-0 随机事件与概率思维导图"
             }
           }
         ]
@@ -222,6 +222,8 @@
   },
   "active": "26b7a099982cc178",
   "lastOpenFiles": [
+    "数一/3 概率论/1 随机事件与概率/0-目录-随机事件与概率.md",
+    "数一/3 概率论/6 数理统计的基本概念/6-2 统计量及其分布.md",
     "数一/3 概率论/6 数理统计的基本概念/0-目录-数理统计基本概念.md",
     "数一/3 概率论/6 数理统计的基本概念/关于样本方差的思考.md",
     "数一/3 概率论/6 数理统计的基本概念/6-0 数理统计的基本概念思维导图.md",
@@ -250,8 +252,6 @@
     "copilot/copilot-conversations/考研数学助手问候@20260529_121957.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "未命名.canvas",
