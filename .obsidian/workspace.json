@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数一/3 概率论/1 随机事件与概率/1-1 随机事件的关系与运算.md",
+                "file": "数一/1 高数/9 无穷级数/9-1 常数项级数.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1-1 随机事件的关系与运算"
+              "title": "9-1 常数项级数"
             }
           }
         ]
@@ -222,6 +222,7 @@
   },
   "active": "26b7a099982cc178",
   "lastOpenFiles": [
+    "数一/3 概率论/1 随机事件与概率/1-1 随机事件的关系与运算.md",
     "数一/3 概率论/1 随机事件与概率/1-0 随机事件与概率思维导图.md",
     "数一/3 概率论/1 随机事件与概率/0-目录-随机事件与概率.md",
     "数一/3 概率论/6 数理统计的基本概念/6-2 统计量及其分布.md",
@@ -250,7 +251,6 @@
     "数一/1 高数/3 微分中值定理/0-目录-微分中值定理.md",
     "数一/1 高数/9 无穷级数/三角函数系的正交性.md",
     "AGENTS.md",
-    "copilot/copilot-conversations/考研数学助手问候@20260529_121957.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
